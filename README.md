@@ -34,7 +34,7 @@ O projeto esta dividido em duas classes principais, respeitando o principio da s
 Para rodar este projeto localmente, voce precisa ter o Java Development Kit (JDK) instalado na sua maquina.
 
 1. Clone este repositorio:
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/GuilhermeDolzany/Bank/tree/main
 
 2. Acesse o diretorio do projeto onde os arquivos .java estao localizados:
    cd src/com/guilhermedolzany/bank
